@@ -1,0 +1,11 @@
+body {
+    background-image: url();
+}
+.card {
+    border-radius: 15px;
+}
+
+.card-title {
+    font-size: 2rem;
+    color: #fd0000;
+}
