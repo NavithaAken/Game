@@ -1,5 +1,8 @@
 body {
-    background-image: url();
+    background-image: url("mortal-kombat-pictures-fm4tg6j4fepjbv5u.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .card {
     border-radius: 15px;
